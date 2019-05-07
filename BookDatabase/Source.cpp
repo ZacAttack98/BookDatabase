@@ -38,7 +38,6 @@ int main() {
 			<< "3. Edit a book's information\n"
 			<< "4. Delete a book from the system\n"
 			<< "5. Exit program\n\n";
-		cout << "*NOTE: All book titles, authors are CASE SENSITIVE;\n\n";
 
 		cin >> choice;
 		cin.ignore();
